@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleTCPServer", "SimpleTCPServer\SimpleTCPServer.vcxproj", "{36F6AF16-7F5F-49FD-BFF8-5AEC637D8D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F6AF16-7F5F-49FD-BFF8-5AEC637D8D18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36F6AF16-7F5F-49FD-BFF8-5AEC637D8D18}.Debug|Win32.Build.0 = Debug|Win32
+		{36F6AF16-7F5F-49FD-BFF8-5AEC637D8D18}.Release|Win32.ActiveCfg = Release|Win32
+		{36F6AF16-7F5F-49FD-BFF8-5AEC637D8D18}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

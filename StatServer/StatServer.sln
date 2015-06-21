@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StatServer", "StatServer\StatServer.vcxproj", "{E4A2946C-D30B-480A-98B8-53840664214A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StatClient", "StatClient\StatClient.vcxproj", "{1DE8BE6F-2E68-431E-A77D-CA9504B1AE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A2946C-D30B-480A-98B8-53840664214A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4A2946C-D30B-480A-98B8-53840664214A}.Debug|Win32.Build.0 = Debug|Win32
+		{E4A2946C-D30B-480A-98B8-53840664214A}.Release|Win32.ActiveCfg = Release|Win32
+		{E4A2946C-D30B-480A-98B8-53840664214A}.Release|Win32.Build.0 = Release|Win32
+		{1DE8BE6F-2E68-431E-A77D-CA9504B1AE97}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1DE8BE6F-2E68-431E-A77D-CA9504B1AE97}.Debug|Win32.Build.0 = Debug|Win32
+		{1DE8BE6F-2E68-431E-A77D-CA9504B1AE97}.Release|Win32.ActiveCfg = Release|Win32
+		{1DE8BE6F-2E68-431E-A77D-CA9504B1AE97}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
